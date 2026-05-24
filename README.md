@@ -29,12 +29,10 @@
 ## 📌 Featured Projects
 
 | Project | Stack | Description |
-|---|---|---|
-| [Fitness Health App](https://github.com/yannigoyal/fitness_health_app) | Flutter · Dart · GetX | Health data integration via Google Fit API with feature-first architecture |
-| [Blind 75](https://github.com/yannigoyal/Blind75) | C++
-| [Clean Architecture Articles](https://github.com/yannigoyal/Clean_Architecture_Articles) | Flutter · Dart | Articles app demonstrating clean architecture patterns |
-
----
+|---------|-------|-------------|
+| [Vaultlog — your progress, locked in](https://github.com/yannigoyal/progress_tracker) | Flutter · Dart | Offline-first daily progress tracker: logs, streaks, stats, Blind 75, optional encrypted cloud backup |
+| [Blind 75](https://github.com/yannigoyal/Blind75) | C++ | Solutions with clean explanations and optimized approaches
+| [Clean Architecture Articles](https://github.com/yannigoyal/Clean_Architecture_Articles) | Flutter · Dart | Sample articles app demonstrating clean architecture patterns |
 
 ## 📫 Get In Touch
 
