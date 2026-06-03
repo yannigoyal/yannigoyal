@@ -1,6 +1,18 @@
-# Hi, I'm Yanni 👋
+[![Profile Views](https://komarev.com/ghpvc/?username=yannigoyal&color=54d4f0&style=flat-square&label=Profile+Views)](https://github.com/yannigoyal)
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54D4F0&width=500&lines=Hey+there!+I'm+Yanni+Goyal+👋;Mobile+App+Developer+%7C+Flutter;Building+clean%2C+offline-first+apps;Open+to+Opportunities+🚀)](https://git.io/typing-svg)
 
 **Mobile App Developer** with 4+ years building Flutter and Android (Java/Kotlin) apps that scale. I specialise in clean architecture, secure API integration, and high-performance UI — across government platforms serving **500K+ users**, fintech, and music-tech products.
+
+## 👨‍💻 About Me
+
+Mobile App Developer focused on **Flutter** — I build clean, production-ready apps with solid architecture.
+
+- 🔭 Currently building [**Vaultlog**](https://github.com/yannigoyal/progress_tracker) — an offline-first personal progress tracker
+- 🌱 Practicing DSA via **Blind 75** (tracked inside my own app!)
+- 💡 I care about clean architecture, state management, and local-first UX
+- 📫 Reach me: **[your.email@gmail.com](mailto:your.email@gmail.com)** · **[LinkedIn](https://linkedin.com/in/your-linkedin-here)**
 
 ---
 
@@ -36,9 +48,5 @@
 
 ## 📫 Get In Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/yanni-goyal-53a984192/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanni-goyal-53a984192/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yannigoel@gmail.com)
-
----
-
-> 💼 **Currently open to mobile engineering roles** — Flutter, Android, or cross-platform.
