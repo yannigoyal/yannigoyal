@@ -12,7 +12,7 @@ Mobile App Developer focused on **Flutter** — I build clean, production-ready 
 - 🔭 Currently building [**Vaultlog**](https://github.com/yannigoyal/progress_tracker) — an offline-first personal progress tracker
 - 🌱 Practicing DSA via **Blind 75** (tracked inside my own app!)
 - 💡 I care about clean architecture, state management, and local-first UX
-- 📫 Reach me: **[your.email@gmail.com](mailto:your.email@gmail.com)** · **[LinkedIn](https://linkedin.com/in/your-linkedin-here)**
+- 📫 Reach me: **[yannigoel@gmail.com](mailto:yannigoel@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/yanni-goyal-53a984192/)**
 
 ---
 
