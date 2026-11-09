@@ -12,6 +12,7 @@ Mobile App Developer focused on **Flutter** — I build clean, production-ready 
 - 🔭 Currently building [**Vaultlog**](https://github.com/yannigoyal/progress_tracker) — an offline-first personal progress tracker
 - 🌱 Practicing DSA via **Blind 75** (tracked inside my own app!)
 - 💡 I care about clean architecture, state management, and local-first UX
+- 🎓 I teach AI-assisted coding on YouTube ([Ghost Codes](https://www.youtube.com/@ghostcodes7)) and in [3 courses, 1 of them free](https://superprofile.bio/ghostcodes7)
 - 📫 Reach me: **[yannigoel@gmail.com](mailto:yannigoel@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/yanni-goyal-53a984192/)**
 
 ---
@@ -45,6 +46,15 @@ Mobile App Developer focused on **Flutter** — I build clean, production-ready 
 | [Vaultlog — your progress, locked in](https://github.com/yannigoyal/progress_tracker) | Flutter · Dart | Offline-first daily progress tracker: logs, streaks, stats, Blind 75, optional encrypted cloud backup |
 | [Blind 75](https://github.com/yannigoyal/Blind75) | C++ | Solutions with clean explanations and optimized approaches
 | [Clean Architecture Articles](https://github.com/yannigoyal/Clean_Architecture_Articles) | Flutter · Dart | Sample articles app demonstrating clean architecture patterns |
+| [env-guard](https://github.com/yannigoyal/env-guard) | Claude Code plugin · Bash | Stops Claude Code from reading your secrets files |
+
+## 🎓 My Courses
+
+| Course | Link |
+|--------|------|
+| AI Coding Agents: From Vibe Coding to Agentic Engineering | [View course](https://superprofile.bio/course/ai-coding-agents-course) |
+| Claude Code Plugins: Vet, Install & Build Them Safely | [View course](https://superprofile.bio/course/claude-code-plugins-course) |
+| AI for DSA & Coding Interviews (**free**) | [Start free](https://superprofile.bio/course/ai-for-dsa-free-course) |
 
 ## 📫 Get In Touch
 
