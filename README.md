@@ -12,7 +12,7 @@ Mobile App Developer focused on **Flutter** — I build clean, production-ready 
 - 🔭 Currently building [**Vaultlog**](https://github.com/yannigoyal/progress_tracker) — an offline-first personal progress tracker
 - 🌱 Practicing DSA via **Blind 75** (tracked inside my own app!)
 - 💡 I care about clean architecture, state management, and local-first UX
-- 🎓 I teach AI-assisted coding on YouTube ([Ghost Codes](https://www.youtube.com/@ghostcodes7)) and in [3 courses, 1 of them free](https://superprofile.bio/ghostcodes7)
+- 🎓 I teach AI-assisted coding on YouTube ([Ghost Codes](https://www.youtube.com/@ghostcodes7)) and in [3 courses, 1 of them free](https://creatly.me/yanni-goyal)
 - 📫 Reach me: **[yannigoel@gmail.com](mailto:yannigoel@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/yanni-goyal-53a984192/)**
 
 ---
@@ -52,9 +52,9 @@ Mobile App Developer focused on **Flutter** — I build clean, production-ready 
 
 | Course | Link |
 |--------|------|
-| AI Coding Agents: From Vibe Coding to Agentic Engineering | [View course](https://superprofile.bio/course/ai-coding-agents-course) |
-| Claude Code Plugins: Vet, Install & Build Them Safely | [View course](https://superprofile.bio/course/claude-code-plugins-course) |
-| AI for DSA & Coding Interviews (**free**) | [Start free](https://superprofile.bio/course/ai-for-dsa-free-course) |
+| AI Coding Agents: From Vibe Coding to Agentic Engineering | [View course](https://creatly.me/yanni-goyal/p/ai-coding-agents) |
+| Claude Code Plugins: Vet, Install & Build Them Safely | [View course](https://creatly.me/yanni-goyal/p/claude-code-plugins) |
+| AI for DSA & Coding Interviews (**free**) | [Start free](https://www.udemy.com/course/ai-for-dsa-coding-interviews-the-tutor-mode-method/?referralCode=58B79CD6990CD9BA5A59) |
 
 ## 📫 Get In Touch
 
